@@ -1,12 +1,12 @@
 import glob, os, shutil ,sys,time
 import subprocess
-from bs4 import BeautifulSoup
 import urllib.request
 import webbrowser
 path = os.getcwd()
 path_lib=os.path.join(path,'lib')
 path_cache=os.path.join(path_lib,'cache.txt')
 sys.path.append(path_lib)
+from bs4 import BeautifulSoup
 from colorama import Fore,init
 import colorama
 colorama.init()
