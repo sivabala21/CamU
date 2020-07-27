@@ -1,7 +1,7 @@
 # CamU v1.1
 Take webcam shots from target just sending a malicious link
 
-![Cam You](https://i.ibb.co/yY0WZtM/IMG-20191024-223723.jpg)
+![Cam You](https://i.ibb.co/PMrKCjF/da.png)
 # How it works?
 <p>The tool generates a malicious HTTPS page using Serveo or Ngrok Port Forwarding methods, and a javascript code to cam requests using MediaDevices.getUserMedia. </p>
 
