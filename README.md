@@ -18,11 +18,11 @@ apt install git
 git clone https://github.com/BOT-CODER/CamU.git
 cd CamU
 bash setup.sh
-python CamU.py
+python3 CamU.py
 ```
 
 ## One line Installation:
 
 ```
-apt update && apt install git && git clone https://github.com/BOT-CODER/CamU.git && cd CamU && bash setup.sh && python CamU.py
+apt update && apt install git && git clone https://github.com/BOT-CODER/CamU.git && cd CamU && bash setup.sh && python3 CamU.py
 ```
